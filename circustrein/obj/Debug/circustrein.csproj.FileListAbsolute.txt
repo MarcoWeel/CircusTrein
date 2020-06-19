@@ -1,0 +1,10 @@
+C:\Users\marco\source\repos\circustrein\circustrein\bin\Debug\circustrein.exe.config
+C:\Users\marco\source\repos\circustrein\circustrein\bin\Debug\circustrein.exe
+C:\Users\marco\source\repos\circustrein\circustrein\bin\Debug\circustrein.pdb
+C:\Users\marco\source\repos\circustrein\circustrein\obj\Debug\circustrein.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\circustrein\circustrein\obj\Debug\circustrein.Form1.resources
+C:\Users\marco\source\repos\circustrein\circustrein\obj\Debug\circustrein.Properties.Resources.resources
+C:\Users\marco\source\repos\circustrein\circustrein\obj\Debug\circustrein.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\circustrein\circustrein\obj\Debug\circustrein.exe
+C:\Users\marco\source\repos\circustrein\circustrein\obj\Debug\circustrein.pdb
+C:\Users\marco\source\repos\circustrein\circustrein\obj\Debug\circustrein.csproj.CoreCompileInputs.cache
